@@ -1,0 +1,1 @@
+In this assignment, we tackle the word correction problem by using different distances (edition, cosinus, jaro-winkler) to see what is the most likely correction. We also used the package pyspellchecker for this task.
