@@ -1,0 +1,1 @@
+In this assignment, we explored the NLTK package and used it to create PCFG grammars to analyse sentences with the Penn Tree Bank.
