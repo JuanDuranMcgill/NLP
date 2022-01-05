@@ -1,0 +1,1 @@
+For this Project, we attempted to tackle the problem of re-organizing a bag of words with ngram and neural network models. 
